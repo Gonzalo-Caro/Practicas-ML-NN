@@ -174,3 +174,5 @@ cython_debug/
 models/my_california_housing_model.pkl
 git-filter-repo
 models/
+Book/data/mnist_784.arff
+
