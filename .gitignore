@@ -171,5 +171,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .DS_Store
-Book/my_california_housing_model.pkl
+models/my_california_housing_model.pkl
 git-filter-repo
+models/
