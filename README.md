@@ -3,4 +3,4 @@ Machine Learning and Neural Networks Practices
 
 ## Based on
 This repository is based on the book  "Hands-On Machine Learning with Sikit Learn, Kearas, 
-and Tensor Flow ny Aurélien Géron"
+and Tensor Flow by Aurélien Géron"
