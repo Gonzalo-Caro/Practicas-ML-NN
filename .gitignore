@@ -178,3 +178,4 @@ models/
 keys.env
 .env
 
+1.Models/data/stock_prices.csv
