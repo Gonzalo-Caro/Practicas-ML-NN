@@ -175,6 +175,7 @@ models/my_california_housing_model.pkl
 git-filter-repo
 models/
 2.Book/data/mnist_784.arff
+2.Book/data/my_mnist.mmap
 keys.env
 .env
 
